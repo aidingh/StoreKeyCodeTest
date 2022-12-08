@@ -44,7 +44,7 @@ public class ComboCampaignsService
             {
                 var sumOfUnVerifiedProducts = unVerifiedProducts.Sum(x => x.ProductPrice);
                 var sum = (verifiedProducts.Count / 2) * ComboPrice + sumOfUnVerifiedProducts;
-                return sum.ToString();
+                return sum.ToString(CultureInfo.CurrentCulture);
             }
             case > 0:
             {
