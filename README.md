@@ -10,6 +10,7 @@ If there is a valid campaign a validation will be made in the API and return a c
 
 ### Dependencies
 No external dependencies are added. Project can be run after a build.
+Project is based on ASP.NET Core Web-API.
 
 ### Installing
 Clone the project, build and run. Thats should be it.
@@ -18,7 +19,7 @@ Clone the project, build and run. Thats should be it.
 When running the program the developer will be redirected ro a Swagger-UI page. There the endpoints can be tested and a result will be provided. 
 
 ## Help
-Eamil: aidin.gh@hotmail.com is any help is needed.
+Emil: aidingh@hotmail.com is any help is needed.
 
 ## Author
 Aidin Ghassemloi
