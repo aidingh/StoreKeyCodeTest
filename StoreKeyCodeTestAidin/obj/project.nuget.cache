@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kObAPp++Mft5JdHYIr5A9rcP6DFpL7TosKyPfgcN4S3NyEhLHnGsIh3DF10+Zc/juJVf4cfVL4zvVUrbd1k/pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aidin\\RiderProjects\\StoreKeyCodeTestAidin\\StoreKeyCodeTestAidin\\StoreKeyCodeTestAidin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aidin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aidin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aidin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aidin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aidin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Aidin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
