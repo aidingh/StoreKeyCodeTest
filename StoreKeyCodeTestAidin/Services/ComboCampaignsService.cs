@@ -50,9 +50,9 @@ public class ComboCampaignsService
                 var lastVerifiedProduct = verifiedProducts.Last();
                 var sumOfUnVerifiedProducts = unVerifiedProducts.Sum(x => x.ProductPrice);
             
-                var tempuraRolls = lastVerifiedProduct.ProductPrice + sumOfUnVerifiedProducts;
+                var restProducts = lastVerifiedProduct.ProductPrice + sumOfUnVerifiedProducts;
                 double sum = ((verifiedProducts.Count - 1) / 2 * ComboPrice);
-                sum += tempuraRolls;
+                sum += restProducts;
             
                 return sum.ToString(CultureInfo.CurrentCulture);
             }
