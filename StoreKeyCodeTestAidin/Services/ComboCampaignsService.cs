@@ -42,7 +42,8 @@ public class ComboCampaignsService
         {
             case 0:
             {
-                var sum = (verifiedProducts.Count / 2) * ComboPrice;
+                var sumOfUnVerifiedProducts = unVerifiedProducts.Sum(x => x.ProductPrice);
+                var sum = (verifiedProducts.Count / 2) * ComboPrice + sumOfUnVerifiedProducts;
                 return sum.ToString();
             }
             case > 0:
