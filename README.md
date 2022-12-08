@@ -12,7 +12,7 @@ If there is a valid campaign a validation will be made in the API and return a c
 No external dependencies are added. Project can be run after a build.
 
 ### Installing
-Clone the project and no further 
+Clone the project, build and run. Thats should be it.
 
 ### Executing program
 When running the program the developer will be redirected ro a Swagger-UI page. There the endpoints can be tested and a result will be provided. 
