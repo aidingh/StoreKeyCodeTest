@@ -19,7 +19,7 @@ Clone the project, build and run. Thats should be it.
 When running the program the developer will be redirected ro a Swagger-UI page. There the endpoints can be tested and a result will be provided. 
 
 ## Help
-Emil: aidingh@hotmail.com is any help is needed.
+Emil: aidingh@hotmail.com if any help is needed.
 
 ## Author
 Aidin Ghassemloi
